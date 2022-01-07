@@ -14,6 +14,7 @@
 4. WI-FI std with itlwm and HeliPort App
 5. Audio Realtek ALC1200
 6. USB (seems all work, butt need testing)
+7. SLEEP
 
 ## Not Work
 1. HDMI-DP Audio
